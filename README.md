@@ -3,7 +3,7 @@
 ## **Overview**  
 This **Power BI** dashboard analyzes Nike's sales performance, focusing on **revenue, profit, cost distribution, product sales, pricing strategies, and regional performance**. The goal is to provide actionable insights into Nike’s **sales trends, profitability, and market strategy**.  
 
----
+
 
 ## **Key Features & Insights**  
 
@@ -33,7 +33,6 @@ This **Power BI** dashboard analyzes Nike's sales performance, focusing on **rev
 - **Profit by Product Category:**  
   - **Top Earners:** Apparel ($692M), Footwear ($613M), Equipment ($711M).  
 
----
 
 ## **Actionable Business Recommendations**  
 
@@ -50,20 +49,19 @@ This **Power BI** dashboard analyzes Nike's sales performance, focusing on **rev
 ✅ **Expand in Emerging Markets**  
 - **Southeast Asia has the lowest revenue ($580M)**, suggesting **growth potential in this region** through increased digital marketing and distribution strategies.  
 
----
+
 
 ## **Technologies & Tools Used**  
 🔹 **Power BI** – Data visualization & interactive dashboard creation.  
 🔹 **Sales Analytics** – Analyzed revenue, cost, and profit by region, product, and category.  
 🔹 **Business Intelligence** – Data-driven recommendations for strategic growth.  
 
----
+
 
 ## **How to Access the Dashboard**  
 📂 [Dataset Link](#) *(Include dataset link if available)*  
 📊 [Live Dashboard Demo](#) *(Include demo link if hosted online)*  
 
----
 
 ## **Conclusion**  
 This **Nike Sales Analytics Dashboard** provides valuable insights into **regional performance, product profitability, sales channels, and pricing strategy**. With **data-driven decision-making**, Nike can **optimize revenue streams, refine pricing models, and expand into high-growth markets**.  
