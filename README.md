@@ -60,7 +60,7 @@ This **Power BI** dashboard analyzes Nike's sales performance, focusing on **rev
 
 ## **How to Access the Dashboard**  
 📂 Dataset Link [Dataset](https://github.com/ibrahimibyy/Nike-sales-analysis-/blob/main/nikee_xx.xlsx)  
-📊 Live Dashboard Demo [Dashboard](https://app.powerbi.com/links/9Osl6he1Kx?ctid=7a9ad00f-b35e-4b07-96ce-b1e1d9634564&pbi_source=linkShare)
+📊 Dashboard Demo [Dashboard](https://app.powerbi.com/links/9Osl6he1Kx?ctid=7a9ad00f-b35e-4b07-96ce-b1e1d9634564&pbi_source=linkShare)
 
 
 ## **Conclusion**  
